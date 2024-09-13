@@ -18,6 +18,8 @@ Skills: CSS / Python
 
 <img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker39924.gif" width="256" />
 
+<img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker39924.gif" width="256" />
+
 ## Socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/samueludobong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-udobong/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/northfrommars/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/northfrommars)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@northfrommars)  
