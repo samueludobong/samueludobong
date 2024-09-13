@@ -16,9 +16,7 @@ Skills: CSS / Python
 
 ## Example Of Work
 
-<img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker39924.gif" width="256" />
-
-<img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker03981.gif" width="256" />
+<img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker39924.gif" width="256" /> <img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker03981.gif" width="256" />
 
 ## Socials
 
