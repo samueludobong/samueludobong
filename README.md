@@ -12,7 +12,11 @@ Skills: CSS / Python
 - 👯 I’m looking to collaborate on Anything 
 - 🤔 I’m looking for help with A place to build my Experience 
 - 📫 How to reach me: You can reach me by Email or My Number 09138376994 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
+
+## Example Of Work
+
+<img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker39924.gif" width="256" />
 
 ## Socials
 
