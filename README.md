@@ -1,28 +1,51 @@
-![Design and Development](https://media.licdn.com/dms/image/v2/D5616AQFHtKAK5QXmEw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726206417751?e=1731542400&v=beta&t=ud-T59SO3iCZwt1ovTPE8XEY12XaWLcNbrdYbkR_1Bc)
+# Samuel Udobong
 
-# Hi there 👋, Samuel Udobong
-#### Design and Development
-I'm Samuel from Nigeria, and I am a Python GUI Developer. I can create amazing-looking and fully functional GUI applications. I am fluent in CSS and am currently learning UI/UX, Android Development, Java, and Node.js to expand my skill set. I am 100% computer literate and my skills extend beyond programming, as I can also serve as an IT personnel. I enjoy working in teams and hope you will also enjoy my company.
+**Full-Stack Developer** · Nigeria → Sweden 🇸🇪
 
-## Skill and Experience
-Skills: CSS / Python
+I build web applications end-to-end — from UI to database. Been coding since I was 12, currently focused on modern web stacks and shipping things that actually work in production.
 
-- 🔭 I’m currently working on A File Transfer Application 
-- 🌱 I’m currently learning UI/UX 
-- 👯 I’m looking to collaborate on Anything 
-- 🤔 I’m looking for help with A place to build my Experience 
-- 📫 How to reach me: You can reach me by Email or My Number 09138376994 
-- 😄 Pronouns: He/Him
+-----
 
-## Example Of Work
+## Stack
 
-<img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker39924.gif" width="284" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker03981.gif" width="284" />&nbsp;&nbsp;<img src="https://github.com/samueludobong/samueludobong/blob/main/3dgifmaker03289.gif" width="285" height="285" />
+**Frontend** · React · TypeScript · HTML/CSS  
+**Backend** · Node.js · Express · Python · FastAPI  
+**Databases** · PostgreSQL · MongoDB  
+**Tools** · Git · Docker · REST APIs · PyQt
 
+-----
 
+## Featured Projects
 
-## Socials
+### 🛒 [EStore Web App](https://github.com/samueludobong/estore-application)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/samueludobong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-udobong/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/northfrommars/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/northfrommars)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@northfrommars)  
+A full-stack e-commerce platform with product listings, cart management, and order tracking.  
+`React` `Node.js` `MongoDB` `Express`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samueludobong&show_icons=true)  
+### 🏫 [School Management System](https://github.com/samueludobong/school-management-system)
 
+Desktop application for managing student records, attendance, and grades.  
+`Python` `PyQt` `SQLite`
+
+### 💱 [Currency Converter](https://github.com/samueludobong/currency-converter-app)
+
+Real-time currency conversion app using the Open Exchange Rates API.  
+`Python` `PyQt` `REST API`
+
+-----
+
+## Currently
+
+- 🌱 Learning **TypeScript** and **Next.js**
+- 🔨 Rebuilding my projects as full-stack web apps
+- 🎯 Targeting developer roles in **Sweden**
+- 📹 Creating dev content at [@northfrommars](https://www.youtube.com/@northfrommars)
+
+-----
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-udobong/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/northfrommars)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@northfrommars)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/northfrommars/)
