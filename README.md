@@ -4,6 +4,8 @@
 
 I build web applications end-to-end — from UI to database. Been coding since I was 12, currently focused on modern web stacks and shipping things that actually work in production.
 
+Currently Refining my Full-Stack Skills with an Angela U Course
+
 -----
 
 ## Stack
