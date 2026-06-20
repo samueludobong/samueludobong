@@ -2,22 +2,27 @@
 
 **Full-Stack Developer** · Nigeria → Sweden 🇸🇪
 
-I build web applications end-to-end — from UI to database. Been coding since I was 12, currently focused on modern web stacks and shipping things that actually work in production.
+I build web and mobile apps end-to-end — from UI to database — and care about shipping things that hold up in production. Coding since I was 12; these days I work mostly in the **TypeScript / React** ecosystem.
 
-Currently Refining my Full-Stack Skills with an Angela U Course
+🔭 Right now I'm building **[Track Meet](https://github.com/samueludobong/trackmeet)** — a real-time music-social app — and sharpening my full-stack fundamentals through Dr. Angela Yu's bootcamp.
 
------
+---
 
-## Stack
+## 🧰 Stack
 
-**Frontend** · React · TypeScript · HTML/CSS  
-**Backend** · Node.js · Express · Python · FastAPI  
-**Databases** · PostgreSQL · MongoDB  
+**Frontend** · React · React Native · TypeScript · HTML/CSS  
+**Backend** · Node.js · Express · Python · FastAPI · Supabase  
+**Databases** · PostgreSQL · MongoDB · SQLite  
 **Tools** · Git · Docker · REST APIs · PyQt
 
------
+---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+### 🎧 [Track Meet](https://github.com/samueludobong/trackmeet) — *flagship*
+
+A cross-platform mobile app where people listen to music **together, in real time**. Synced "Meets," multi-provider song cards (Spotify / Apple / YouTube / SoundCloud via Odesli), Spotify OAuth, and push notifications — designed and built solo.  
+`React Native` `Expo` `TypeScript` `Supabase`
 
 ### 🛒 [EStore Web App](https://github.com/samueludobong/estore-application)
 
@@ -31,21 +36,28 @@ Desktop application for managing student records, attendance, and grades.
 
 ### 💱 [Currency Converter](https://github.com/samueludobong/currency-converter-app)
 
-Real-time currency conversion app using the Open Exchange Rates API.  
+Real-time currency conversion using the Open Exchange Rates API.  
 `Python` `PyQt` `REST API`
 
------
+---
 
-## Currently
+## 🌱 Currently
 
-- 🌱 Learning **TypeScript** and **Next.js**
-- 🔨 Rebuilding my projects as full-stack web apps
-- 🎯 Targeting developer roles in **Sweden**
-- 📹 Creating dev content at [@northfrommars](https://www.youtube.com/@northfrommars)
+- 🔨 Building **Track Meet** and rebuilding earlier projects as full-stack web apps
+- 📚 Going deeper on **TypeScript** and **Next.js**
+- 🎯 Targeting full-stack / frontend developer roles in **Sweden**
+- 📹 Making dev content at **[@northfrommars](https://www.youtube.com/@northfrommars)**
 
------
+---
 
-## Connect
+## 📊 GitHub
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueludobong&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueludobong&layout=compact&hide_border=true)
+
+---
+
+## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-udobong/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/northfrommars)
