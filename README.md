@@ -4,7 +4,7 @@
 
 I build web and mobile apps end-to-end — from UI to database — and care about shipping things that hold up in production. Coding since I was 12; these days I work mostly in the **TypeScript / React** ecosystem.
 
-🔭 Right now I'm building **[Track Meet](https://github.com/samueludobong/trackmeet)** — a real-time music-social app — and sharpening my full-stack fundamentals through Dr. Angela Yu's bootcamp.
+🔭 Right now I'm building **Crosslink** — a Android/iOS companion app — the continuity layer Apple gives iPhone/Mac users (Handoff, Universal Clipboard, AirDrop) but for Windows and Android — and sharpening my full-stack fundamentals through Dr. Angela Yu's bootcamp.
 
 ---
 
